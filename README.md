@@ -9,7 +9,7 @@ This repository hosts my current Curriculum Vitae (CV) in PDF format. Feel free 
 - **cv.pdf**: Latest version of my Curriculum Vitae in PDF format.
 
 ## About Me
-I am Shrabanti DEbnath, a web designer with expertise in html,css. I am passionate about artificial intelligence.
+I am Shrabanti Debnath, a web designer with expertise in html,css. I am passionate about artificial intelligence.
 
 ## Contact Information
 - **Email**: urmi1907094@stud.kuet.ac.bd
