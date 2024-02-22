@@ -13,7 +13,7 @@ I am Shrabanti DEbnath, a software engineer with expertise in python. I am passi
 
 ## Contact Information
 - **Email**: urmi1907094@stud.kuet.ac.bd
-- 
+  
 ## How to Reach Me
 If you have any inquiries, opportunities, or just want to connect, feel free to reach out via email. I'm always open to discussing potential collaborations or opportunities.
 
